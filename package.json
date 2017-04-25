@@ -1,8 +1,8 @@
 {
   "name": "days_timer",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "private": false,
-  "main": "src/App.js",
+  "main": "lib/index.js",
   "dependencies": {
     "babel": "^6.23.0",
     "moment": "^2.18.1",
