@@ -5,3 +5,11 @@
  line-height: 35px;
  text-align: center;
 }
+.td-timer{
+ display: inline-block;
+ padding: 10px;
+}
+.timer-head{
+ background: #ccc;
+ display: inline-block;
+}
