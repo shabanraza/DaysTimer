@@ -3,6 +3,7 @@ DaysTimer component is used to display the elapsing time in days,hour,min,sec
 ## Install
 
 `npm install --save days_timer`
+
 ## Usage
 In DaysTimer Component pass the future date that till the timer run
 
